@@ -38,3 +38,14 @@ Average Revenue
 Top Grossing Movie
 
 Number of Movies Released
+
+
+Tools & Technologies Used:
+
+Power BI
+
+Data Modeling
+
+DAX Calculations
+
+Data Visualization Best Practices
